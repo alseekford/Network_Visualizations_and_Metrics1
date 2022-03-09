@@ -1,6 +1,8 @@
 # Introductory Network Visualizations and Metrics
 Anne Louise Seekford
+
 Social Network Analysis
+
 Homework 1
 
 ## Data
