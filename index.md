@@ -1,9 +1,6 @@
 # Introductory Network Visualizations and Metrics
-Anne Louise Seekford
 
-Social Network Analysis
-
-Homework 1
+Anne Louise Seekford - Social Network Analysis- Homework 1
 
 ## Data
 For homework 1, I selected a dataset from a journal investigating the Association of Stress-Related Disorders with Subsequent Autoimmune Disease. As an individual with an autoimmune disorder, I am very familiar with the fact that people with autoimmune disorders are more likely to develop an additional autoimmune condition. I wanted to find a dataset to reflect the connections between different autoimmune disorders, but this was the closest I could get. In this study, researchers explored the correlation between specific autoimmune disorders and stress disorders. They also explored the relationship when multiple siblings had the same disorder (which I thought was super interesting because my sister also has celiac! - but it was too complex for this initial network). This dataset shows the “Hazard Ratio” for each of the 42 autoimmune disorders, in regards to the likelihood that the diagnosed individuals will develop some variation of stress disorder. 
